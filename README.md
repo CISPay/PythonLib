@@ -8,8 +8,8 @@
 или
 - 1.2. Скачайте исходный код - `git clone https://github.com/CISPay/PythonLib`
 
-##### Использование
-###### Создание счета
+#### Использование
+##### Создание счета
 ```
 from CISPay import CISPay
 
