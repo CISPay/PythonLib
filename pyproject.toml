@@ -7,7 +7,7 @@ packages = ["src/CISPay"]
 
 [project]
 name = "CISPay"
-version = "1.0"
+version = "1.0.1"
 description = "Library for Python 3+ to accept payments on CISPay"
 readme = "README.md"
 authors = [{ name = "dotmix", email = "me@dotmix.eu" }]
