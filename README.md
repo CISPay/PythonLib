@@ -28,7 +28,7 @@ data = client.order_create(amount, comment, expire)
 #    'sum': 500.0 
 # }
 ```
-###### Получение информации о счете
+##### Получение информации о счете
 ```
 from CISPay import CISPay
 
