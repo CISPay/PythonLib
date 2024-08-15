@@ -25,7 +25,7 @@ class CISPay:
         api_url = self.API_URL + '/payment/create'
         data = {
             'shop_to': self.SHOP_UUID,
-            'sum': float(amount),
+            'sum': round(amount, 2),
             'comment': comment,
             'expire': expire
         }
