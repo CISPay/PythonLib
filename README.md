@@ -51,6 +51,6 @@ data = client.order_info(uuid)
 
 ## Лицензия
 
-Copyright © 2024 [CISPay](https://github.com/CISPay)
+Copyright © 2025 [CISPay](https://github.com/CISPay)
 
 Проект распространяется под лицензией [MIT](LICENSE)

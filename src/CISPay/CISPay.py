@@ -14,7 +14,7 @@ class CISPay:
 
     def order_create(self, amount, comment, expire):
         """
-        Documentation: https://docs.cispay.pro/merchant/orders/creating-payment
+        Documentation: https://docs.cispay.pro/merchant/order/creating-order
 
         Arguments:
             amount: Order amount
@@ -54,7 +54,7 @@ class CISPay:
         
     def order_info(self, order_id):
         """
-        Documentation: https://docs.cispay.pro/merchant/orders/payment-info
+        Documentation: https://docs.cispay.pro/merchant/order/info
 
         Arguments:
             order_uuid: Order UUID on CISPay
